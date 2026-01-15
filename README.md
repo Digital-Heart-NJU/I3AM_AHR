@@ -6,7 +6,7 @@ This is the multi-omics data of the I3AM\_AHR project.
 
 Fig1 dataset: Bulk RNA-seq TPM.gene.annotated.txt, Bulk RNA-seq count.csv
 
-MCE.rds and RT.rds: Raw sparse matrix for snRNA-seq in Fig2
+MCE.rds and RT.rds: processed count matrices snRNA-seq in Fig2
 
 Human\_metabolics\_data.levels.xlsx: Metabolomic Results in Human Normal Controls and Heart Failure Patients with Reduced Ejection Fraction (HFrEF)
 
